@@ -1,0 +1,9 @@
+https://info.boltiot.com/color-picker-tool (link for hexcode of colours)
+https://dev.w3.org/html5/html-author/charref (link for entity numbers of special characters)
+https://www.jotform.com/ (used to embed forms)
+https://reqres.in/api/users/1 (web API that returns user data from the server)
+https://www.weatherbit.io/ (link for the weatherbit website to fetch weather details)
+https://github.com/ (to upload your project code on a file/folder incase you formatted your laptop)
+https://codepen.io/ (web dev environment for frontend design/development, allows to build and deploy websites)
+
+

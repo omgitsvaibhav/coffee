@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>COFFEE STORE</title>
+	<link rel="stylesheet" type="text/css" href="coffeeshop.css">
+	</head>
+	
+	<body>
+		<div class="container">
+			<header class="coffee-header">
+				<div class="div-logo">
+					<img src="coffee-logo.png">
+					<span class="logo-text">COFFEE SHOP
+					</span>
+				</div>
+				<nav class="coffee-nav">
+					<a href="index.html">HOME</a>
+					<a href="product.html">PRODUCT</a>
+					<a href="price.html">PRICE</a>
+					<a href="#">ABOUT</a>
+				</nav>
+			</header>
+			<div class="site-content">
+				<div class="image-content">
+					<h1 class="quote">COFFEE IS THE BEST THING TO KICKSTART YOUR DAY WITH
+					</h1>
+				</div>
+				<h1 id="product">PRODUCT</h1>
+				<div class="cards">
+				<div class="card-list">
+					<div class="card">
+						<a href="https://en.wikipedia.org/wiki/Caff%C3%A8_mocha" target="_blank"><img src="mocha-image.png"></a>
+							<h2>MOCHA</h2>
+							<h3>&#8377; 140</h3>
+					</div>
+					<div class="card">
+						<a href="https://en.wikipedia.org/wiki/Cappuccino" target="_blank"><img src="cappuccino-image.png"></a>
+							<h2>CAPPUCCINO</h2>
+							<h3>&#8377; 170</h3>
+					</div>
+					<div class="card">
+						<a href="https://en.wikipedia.org/wiki/Latte" target="_blank"><img src="latte-image.png"></a>
+							<h2>LATTE</h2>
+							<h3>&#8377; 200</h3>
+					</div>
+					<div class="card">
+						<a href="https://en.wikipedia.org/wiki/Caff%C3%A8_Americano" target="_blank"><img src="americano-image.png"></a>
+							<h2>AMERICANO</h2>
+							<h3>&#8377; 100</h3>
+					</div>
+			</div>
+			</div>
+			<nav class="navig">
+				<a href="product.html">ORDER</a>
+			</nav>
+	    </div>
+	</div>
+	</body>
+</html>

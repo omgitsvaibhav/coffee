@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>COFFEE STORE</title>
+	<link rel="stylesheet" type="text/css" href="coffeeshop.css">
+	</head>
+	<body>
+		<nav>
+			<a href="index.html">HOME |</a>
+			<a href="product.html">PRODUCT |</a>
+			<a href="context.html">CONTEXT</a>
+		</nav>
+		<span style="border: 2px solid red;display: block;">span 1</span>
+		<span style="border:2px solid green;display: block; ">span 2</span>
+		<p></p>
+		<div style="border: 2px solid red;display: inline;">div 1</div>
+		<div style="border: 2px solid green;display: inline;">div 2</div>
+		<ul class="coffee-list">
+			<li>mocha</li>
+			<li>cappucino</li>
+			<li>espresso</li>
+			<li>double espresso</li>
+			<li>latte</li>
+		</ul>
+		<ol type="A">
+			<li>choose the coffee</li>
+			<li>order the coffee</li>
+			<li>complete the payment</li>
+			<li>deliver the coffee</li>
+			<li>enjoy the coffee</li>		
+		</ol>
+		<dl>
+			<dt> MOCHA COFFEE</dt>
+			<dd>Mocha coffee are extracted from plant arabica found in Yemen</dd>
+			<dt>CAPPUCINO COFFEE</dt>
+			<dd>It is made of single espresso shot and hot milk</dd>
+		</dl>
+		<div>
+			<table class="pricing-table">
+				<caption class="caption-heading"><h1>COFFEE MENU</h1>
+				</caption>
+				<tr>
+					<th>COFFEE NAME</th>
+					<th>PRICE</th>
+					<th>AVAILABILITY</th>
+				</tr>
+				<tr class="tr-out-of-stock">
+					<td>MOCHA</td>
+					<td>140</td>
+					<td>out of stock</td>
+				</tr>
+				<tr class="tr-in-stock">
+					<td>CAPPUCINO</td>
+					<td>170</td>
+					<td>in stock</td>
+				</tr>
+			</table>
+		</div>
+		<div class="available-coffee">
+			<p>this is a normal text</p>
+			<p>this is <b>bold</b></p>
+			<p>this is <i>italic</i></p>
+			<p>this is <strong>strong</strong></p>
+			<p>this is <em>emphasize</em></p>
+			<p>this is <sub>subscript</sub></p>
+			<p>this is <sup>superscript</sup></p>
+			<p>this is <del>deleted</del></p>
+		</div>
+		<div class="available-coffee out-of-stock" id="mocha" style="display: inline-block;">
+			<h4>mocha</h4>
+			<img src="mocha.png" class="div-img">
+		</div>
+		<div class="available-coffee in-stock" style="display: inline-block;">
+			<h4>cappucino</h4>
+			<img src="cappuccino.png" class="div-img">
+		</div>
+		<footer class="footer">
+			<div style="height: 50%;">
+				<a href="index.html">HOME |</a>
+				<a href="product.html">PRODUCT</a>
+			</div>
+			<div style="height: 50%;">
+				DESIGNED by VAIBHAV MISHRA copyright@inventrom
+			</div>
+		</footer>
+	</body>
+</html>

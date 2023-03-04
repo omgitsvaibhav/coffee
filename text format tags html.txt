@@ -1,0 +1,7 @@
+bold-<b></b>
+italic-<i></i>
+strong-<strong></strong>
+emphasized-<em></em>
+subscript-<sub></sub>
+deleted-<del></del>
+

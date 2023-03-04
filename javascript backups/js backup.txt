@@ -1,0 +1,10 @@
+<script type="text/javascript">
+function pi(){
+			return 3.14;
+		}
+		function circle(r){
+			area= pi()*r*r;
+			return area;
+		}
+		alert(circle(5));
+</script>

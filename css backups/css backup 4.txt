@@ -1,0 +1,11 @@
+.container{
+	height: 1200px;
+	border: 2px solid red;
+	position: relative;
+}
+.sticky{
+	height: 100px;
+	background-color: green;
+	position: sticky;
+	top: 10px;
+}

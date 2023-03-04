@@ -1,0 +1,23 @@
+predefined values for font size:
+medium
+xx-small
+x-small
+small
+large
+x-large
+xx-large
+smaller
+larger
+length
+
+border styles in css:
+dotted
+dashed
+solid
+double
+groove
+inset
+ridge
+outset
+none
+hidden

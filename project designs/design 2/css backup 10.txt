@@ -1,0 +1,96 @@
+body{
+	margin: 0px;
+}
+.coffee-header{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: #1b1e3a;
+	z-index: 100;
+}
+.div-logo{
+	height: 100px;
+	text-align: center;
+	margin: 10px;
+	float: left;
+}
+.logo-text{
+	display: block;
+	font-family: "Helvetica Neue";
+	font-weight: bold;
+	color: white;
+}
+.coffee-nav{
+	float: right;
+	height: 100%;
+}
+.coffee-nav a{
+	color: white;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: "Helvetica Neue";
+	padding-right: 20px;
+	padding-top: 12%;
+	display: inline-block;
+}
+.site-content{
+	position: absolute;
+	top: 78px;
+	width: 100%;
+}
+.image-content{
+	background-image: url("background-image.png");
+	height: 700px;
+	width: 100%;
+	text-align: center;
+}
+.quote{
+	color: white;
+	font-family: "Helvetica Neue";
+	position: relative;
+	top: 10%;
+}
+#product{
+	text-align: center;
+}
+.cards{
+	height: 100vh;
+	place-items:center;
+	background: white;
+	margin: 0;
+	display: grid;
+	overflow: hidden;
+}
+.card-list{
+    display: flex;
+}
+.card{
+	background: white;
+	border-radius: 1rem;
+	padding: 2rem;
+	box-shadow: 0 4px 8px black;
+	transition: 0.2s;
+}
+h2, h3{
+	text-align: center;
+}
+.card:not(:first-child){
+	margin-left: -4rem;
+}
+.card:hover ~ .card{
+    	transform: translateX(4rem);
+}
+.card:hover{
+transform: translateY(-2rem);
+}
+.card img{
+	border-radius: 1rem;
+}
+.order-section{
+	width: 100%;
+}
+#order{
+	text-align: center;
+}

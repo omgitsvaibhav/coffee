@@ -1,0 +1,28 @@
+*{
+	font-size: 20px;
+}
+.myclass{
+	color: red;
+}
+#myid{
+	background-color: green;
+}
+div{
+	height: 100px;
+	width: 100px;
+	border: 2px solid blue;
+}
+[href="https://www.boltiot.com"]{
+	color: red;
+}
+h1,div{
+	color: blue;
+}
+.family-line span{
+	color:blue;
+}
+.first-div{
+	height: 200px;
+	border: 1px solid red;
+	padding: 0px 20px 0px 20px;
+}

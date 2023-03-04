@@ -1,0 +1,16 @@
+<div class="first-div">
+			first div inside body
+	  </div>
+		text inside the body
+		<div class="myclass" id="myid">div 1</div>
+		<div class="myclass">div 2</div>
+		<a href="https://www.boltiot.com">BOLT</a>
+		<p></p>
+		<a href="https://google .com">GOOGLE</a>
+		<h1>this is h1</h1>
+		<div>this is div</div>
+		<div class="family-line">
+			<div>
+				<span>this is span</span>
+			</div>
+		</div>

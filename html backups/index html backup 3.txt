@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>COFFEE STORE</title>
+	<link rel="stylesheet" type="text/css" href="coffeeshop.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="child-1">
+				i am child 1
+			</div>
+			<div class="child-2">
+				i am child 2
+			</div>
+		</div>
+		
+	</body>
+</html>

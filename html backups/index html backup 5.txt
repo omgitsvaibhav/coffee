@@ -1,0 +1,6 @@
+<body>
+		<div class="container">
+			this is text inside container div
+		    <img src="mocha.png">
+	    </div>
+	</body>

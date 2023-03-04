@@ -1,0 +1,6 @@
+<form class="form">
+						<input type="name" placeholder="Name">
+						<input type="email" placeholder="Email">
+						<input type="phone" placeholder="Phone">
+						<input type="submit">
+					</form>

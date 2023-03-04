@@ -1,0 +1,23 @@
+ONLOAD/ONCLICK EVENT
+<body onload="change_para_text()">
+	<p id="output" onclick="change_para_text()">
+		default text
+	</p>
+	<script type="text/javascript">
+		function change_para_text(){
+			document.getElementById("output").innerHTML="new text";
+		}
+	</script>
+
+ONMOUSEOVER/ONKEYUP/ONCLICK EVENT
+<body >
+	<p id="output" onclick="change_para_text()" onmouseover="change_para_text()">
+		default text
+	</p>
+	<input onkeyup="change_para_text(this.value)">
+	<script type="text/javascript">
+		function change_para_text(text){
+			document.getElementById("output").innerHTML=text;
+		}
+	</script>
+</body>

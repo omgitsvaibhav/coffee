@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>COFFEE STORE</title>
+	<link rel="stylesheet" type="text/css" href="coffeeshop.css">
+	</head>
+	
+	<body>
+		<div class="container">
+			<header class="coffee-header">
+				<div class="div-logo">
+					<img src="coffee-logo.png">
+					<span class="logo-text">coffee shop
+					</span>
+				</div>
+				<nav class="coffee-nav">
+					<a href="#">HOME</a>
+					<a href="#">PRODUCT</a>
+					<a href="#">PRICE</a>
+					<a href="#">ABOUT</a>
+				</nav>
+			</header>
+			<div class="site-content">
+				<div class="image-content">
+					<h1 class="quote">COFFEE IS THE BEST THING TO KICKSTART YOUR DAY WITH
+					</h1>
+				</div>
+				<div class="card-list">
+					<h1 id="product">PRODUCT</h1>
+					<div class="card">
+						<img src="mocha-image.png">
+							<h2>MOCHA</h2>
+							<h3>&#8377; 249</h3>
+					</div>
+					<div class="card">
+						<img src="cappuccino-image.png">
+							<h2>CAPPUCCINO</h2>
+							<h3>&#8377; 249</h3>
+					</div>
+					<div class="card">
+						<img src="latte-image.png">
+							<h2>LATTE</h2>
+							<h3>&#8377; 249</h3>
+					</div>
+					<div class="card">
+						<img src="americano-image.png">
+							<h2>AMERICANO</h2>
+							<h3>&#8377; 249</h3>
+					</div>
+				<div class="order-section">
+					<h1 id="order">ORDER</h1>
+					<script type="text/javascript" src="https://form.jotform.com/jsform/211143981844053"></script>
+				</div>
+			</div>
+	    </div>
+	</body>
+</html>

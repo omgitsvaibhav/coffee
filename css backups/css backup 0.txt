@@ -1,0 +1,65 @@
+.available-coffee{
+	height: 300px;
+	width: 300px;
+	font-size: 16px;
+}
+.out-of-stock{
+	border-top-style: dotted;
+	border-top-width: 2px;
+	border-top-color: red;
+
+	border-bottom-style: dotted;
+	border-bottom-width: 2px;
+	border-bottom-color: green;
+
+	font-size: 17px;
+	font-style: italic;
+	font-family: georgia;
+}
+.in-stock{
+	border: 4px double green;
+}
+#mocha{
+	color: grey;
+}
+
+.div-img{
+	height: 80%;
+	width:100%;
+}
+.pricing-table{
+	width: 100%;
+	border: 2px solid green;
+	font-family: "arial black",gadget, sans-serif;
+	text-align: center;
+}
+.caption-heading{
+	color: #68c5f0;
+}
+th{
+	background-color: #54fa5b;
+	height: 50px;
+	color: white;
+	font-size: 22px;
+}
+td{
+	height: 50px;
+	font-size: 21px;
+	color: #241701;
+}
+.tr-out-of-stock:hover{
+	background-color:#f7745e;
+}
+.tr-in-stock:hover{
+	background-color:#8ad754;
+}
+.coffee-list{
+	list-style-type: square;
+}
+.footer{
+	background-color: #202020;
+	color: white;
+	height: 100px;
+	font-size: 20px;
+	text-align: center;
+}

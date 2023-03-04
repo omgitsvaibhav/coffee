@@ -1,0 +1,13 @@
+<div class="container">
+			<h1>this is a container</h1>
+	        <span style="font-size: 30px">
+		        10 &#8377;
+	        </span>
+	        <span style="font-size: 80px">
+	        	&#8900;
+	        </span>
+	        <div class="sticky">
+				
+			</div>
+		</div>
+<img src="mocha.png" style="width: 200px;">
